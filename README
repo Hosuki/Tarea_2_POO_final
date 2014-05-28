@@ -1,0 +1,9 @@
+Primero se debe abrir un terminal, en la carpeta de la etapa que se desea ejecutar
+
+Para compilar, en el terminal se debe escribir el comando: $ make
+
+Para ejecutar se debe escribir el comando: $ make run
+
+Para eliminar las clases, escribir: $ make clean
+
+
